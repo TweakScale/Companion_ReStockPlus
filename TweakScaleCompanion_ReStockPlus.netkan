@@ -1,0 +1,30 @@
+  
+{
+    "spec_version"     : "v1.0",
+    "$kref"            : "#/ckan/spacedock/???",
+    "$vref"            : "#/ckan/ksp-avc",
+    "identifier"       : "TweakScaleCompanion_ReStockPlus",
+    "name"             : "TweakScale Companion for the ReStockPlus AddOn",
+    "abstract"         : ""
+    "license"          : "GPL-2.0",
+    "release_status"   : "development",
+    "x_netkan_force_v" : true,
+    "author": [
+        "LisiasT", "Only Light Matters"
+    ],
+    "install" : [
+        {
+            "file" : "GameData/TweakScaleCompanion_ReStockPlus",
+            "install_to" : "GameData/TweakScaleCompanios/NFS"
+        }
+    ],
+    "resources": {
+        "homepage":   "https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*",
+        "repository": "https://github.com/OnlyLightMatters/TweakScaleCompanion_ReStockPlus"
+    },
+    "depends" : [
+        { "name" : "ModuleManager", "min_version" : "4.0.3" },
+        { "name" : "TweakScale", "min_version" : "2.4.4" },
+        { "name" : "ReStockplus" : 1.0.3 }
+    ]
+}
