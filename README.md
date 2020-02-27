@@ -1,27 +1,27 @@
-# TweakScale Companion :: ReStock
+# TweakScale Companion :: ReStock+
 
-Adds TweakScale /L patches for ReStock.
+Adds TweakScale /L patches for ReStock+.
 
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStock)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStock/issues)
+* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus)
+	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-141-tweakscale-under-new-management/&) (for while)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStock/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStock/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/blob/master/README.md)
+	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStock) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStock/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStock/Archive)
+	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus) on GitHub.
+	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/releases)
+		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/Archive)
 
 
 ## Description
 
-**TweakScale Companion for ReStock** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for ( surprisingly :P ) [ReStock](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-18x-restock-revamping-ksps-art-january-12th-2020/).
+**TweakScale Companion for ReStock+** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for ( surprisingly :P ) [ReStock+](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-18x-restock-revamping-ksps-art-january-12th-2020/).
 
 
 ## Installation
@@ -43,6 +43,10 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-18x-restock-revamping-ksps-art-january-12th-2020/)
 	+ [SpaceDock](https://spacedock.info/mod/2098/Restock)
 	+ [GitHub](https://github.com/PorktoberRevolution/ReStocked).
+* ReStock+ ([Nertea](https://forum.kerbalspaceprogram.com/index.php?/profile/83952-nertea/)
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-18x-restock-revamping-ksps-art-january-12th-2020/)
+	+ [SpaceDock](https://spacedock.info/mod/2106/RestockPlus)
+	+ [GitHub](https://github.com/PorktoberRevolution/ReStocked/)
 * TweakScale /L ([LisiasT](https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/))
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)

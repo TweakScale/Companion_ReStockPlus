@@ -1,6 +1,6 @@
-# TweakScale Companion :: ReStock
+# TweakScale Companion :: ReStock+
 
-Adds (up to date) TweakScale /L patches for ReStock.
+Adds (up to date) TweakScale /L patches for ReStock+.
 
 
 ## Installation Instructions
@@ -8,9 +8,9 @@ Adds (up to date) TweakScale /L patches for ReStock.
 To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-	+ Delete `<KSP_ROOT>/GameData/TweakScaleCompanion/ReStock`
+	+ Delete `<KSP_ROOT>/GameData/TweakScaleCompanion/ReStockPlus`
 * Extract the package's `GameData/` folder into your KSP's as follows:
-	+ `<PACKAGE>/GameData/TweakScaleCompanion/ReStock/*` --> `<KSP_ROOT>/GameData/TweakScaleCompanion/ReStock`
+	+ `<PACKAGE>/GameData/TweakScaleCompanion/ReStockPlus/*` --> `<KSP_ROOT>/GameData/TweakScaleCompanion/ReStockPlus`
 		- Overwrite any preexisting file.
 
 The following file layout must be present after installation:
@@ -38,7 +38,7 @@ The following file layout must be present after installation:
 		...
 		[TweakScaleCompanion]
 			[...]
-			[ReStock]
+			[ReStockPlus]
 				CHANGE_LOG.md
 				LICENSE*
 				NOTICE
@@ -58,6 +58,7 @@ The following file layout must be present after installation:
 	+ **NOT** included
 * ReStock 1.0.3 or later
 	+ **NOT** included 
+* ReStockPlus 1.0.3 or later
+	+ **NOT** included 
 * Module Manager 3.0.7 or later
 	+ **NOT** included
-

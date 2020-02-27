@@ -1,2 +1,2 @@
-# TweakScale Companion :: ReStock :: Change Log
+# TweakScale Companion :: ReStock+ :: Change Log
 

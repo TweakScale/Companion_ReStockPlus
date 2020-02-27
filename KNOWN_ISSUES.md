@@ -1,2 +1,2 @@
-# TweakScale Companion :: ReStock :: Known Issues
+# TweakScale Companion :: ReStock+ :: Known Issues
 
