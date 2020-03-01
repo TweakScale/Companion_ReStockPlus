@@ -40,7 +40,7 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 * [OnlyLightMatters](https://github.com/OnlyLightMatters) Patches' Author and Current Owner.
 	+ [GitHub](https://github.com/OnlyLightMatters/TweakScaleCompanion_ReStockPlus)
 	+ [Gallery](http://www.onlylightmatters.com).
-* ReStock [Nertea](https://forum.kerbalspaceprogram.com/index.php?/profile/83952-nertea/)
+* ReStockPlus ([Nertea](https://forum.kerbalspaceprogram.com/index.php?/profile/83952-nertea/))
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-18x-restock-revamping-ksps-art-january-12th-2020/)
 	+ [SpaceDock](https://spacedock.info/mod/2098/Restock)
 	+ [GitHub](https://github.com/PorktoberRevolution/ReStocked).

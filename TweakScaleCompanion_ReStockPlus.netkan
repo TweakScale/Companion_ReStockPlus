@@ -6,7 +6,7 @@
     "identifier"       : "TweakScaleCompanion_ReStockPlus",
     "name"             : "TweakScale Companion for the ReStockPlus AddOn",
     "abstract"         : ""
-    "license"          : "GPL-2.0",
+    "license"          : "GPL-2.0 & SKL-1.0",
     "release_status"   : "development",
     "x_netkan_force_v" : true,
     "author": [
@@ -15,12 +15,12 @@
     "install" : [
         {
             "file" : "GameData/TweakScaleCompanion_ReStockPlus",
-            "install_to" : "GameData/TweakScaleCompanios/NFS"
+            "install_to" : "GameData/TweakScaleCompanion/ReStockPlus"
         }
     ],
     "resources": {
         "homepage":   "https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*",
-        "repository": "https://github.com/OnlyLightMatters/TweakScaleCompanion_ReStockPlus"
+        "repository": "https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus"
     },
     "depends" : [
         { "name" : "ModuleManager", "min_version" : "4.0.3" },
