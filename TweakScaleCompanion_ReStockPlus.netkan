@@ -14,7 +14,7 @@
     ],
     "install" : [
         {
-            "file" : "GameData/TweakScaleCompanion_ReStockPlus",
+            "file" : "GameData/TweakScaleCompanion/ReStockPlus",
             "install_to" : "GameData/TweakScaleCompanion/ReStockPlus"
         }
     ],
