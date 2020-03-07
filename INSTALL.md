@@ -1,6 +1,6 @@
 # TweakScale Companion :: ReStock+
 
-Adds (up to date) TweakScale /L patches for ReStock+.
+Adds (up to date) TweakScale /L patches for ReStockPlus.
 
 
 ## Installation Instructions
@@ -44,7 +44,7 @@ The following file layout must be present after installation:
 				NOTICE
 				README.md
 				[patches]
-					...
+					ReStockPlus_TweakScale.cfg
 			[...]
 	KSP.log
 	PastDatabase.cfg

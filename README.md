@@ -1,6 +1,6 @@
-# TweakScale Companion :: ReStock+
+# TweakScale Companion :: ReStockPlus
 
-Adds TweakScale /L patches for ReStock+.
+Adds TweakScale /L patches for ReStockPlus.
 
 
 ## In a Hurry
@@ -21,7 +21,7 @@ Adds TweakScale /L patches for ReStock+.
 
 ## Description
 
-**TweakScale Companion for ReStock+** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for ( surprisingly :P ) [ReStock+](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-18x-restock-revamping-ksps-art-january-12th-2020/).
+**TweakScale Companion for ReStockPlus** adds (up to date) [TweakScale /L](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-ksp-141-tweakscale-under-lisias-management-24310-2019-1030/) support for ( surprisingly :P ) [ReStockPlus](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-18x-restock-revamping-ksps-art-january-12th-2020/).
 
 
 ## Installation
@@ -35,11 +35,12 @@ Detailed installation instructions are now on its own file (see the [In a Hurry]
 See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 
 
-## Refences
+## References
 
 * [OnlyLightMatters](https://github.com/OnlyLightMatters) Patches' Author and Current Owner.
-	+ [GitHub](https://github.com/OnlyLightMatters/????????).
-* ReStock ([Nertea](https://forum.kerbalspaceprogram.com/index.php?/profile/83952-nertea/)
+	+ [GitHub](https://github.com/OnlyLightMatters/TweakScaleCompanion_ReStockPlus)
+	+ [Gallery](http://www.onlylightmatters.com).
+* ReStockPlus ([Nertea](https://forum.kerbalspaceprogram.com/index.php?/profile/83952-nertea/))
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/182679-18x-restock-revamping-ksps-art-january-12th-2020/)
 	+ [SpaceDock](https://spacedock.info/mod/2098/Restock)
 	+ [GitHub](https://github.com/PorktoberRevolution/ReStocked).
