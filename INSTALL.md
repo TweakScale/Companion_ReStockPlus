@@ -1,4 +1,4 @@
-# TweakScale Companion :: ReStock
+# TweakScale Companion :: ReStock+
 
 Adds (up to date) TweakScale /L patches for ReStockPlus.
 
@@ -58,6 +58,7 @@ The following file layout must be present after installation:
 	+ **NOT** included
 * ReStock 1.0.3 or later
 	+ **NOT** included 
+* ReStockPlus 1.0.3 or later
+	+ **NOT** included 
 * Module Manager 3.0.7 or later
 	+ **NOT** included
-
