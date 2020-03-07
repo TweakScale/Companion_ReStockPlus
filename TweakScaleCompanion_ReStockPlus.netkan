@@ -24,7 +24,7 @@
     },
     "depends" : [
         { "name" : "ModuleManager", "min_version" : "4.0.3" },
-        { "name" : "TweakScale", "min_version" : "2.4.4" },
+        { "name" : "TweakScaleCore", "min_version" : "2.4.4" },
         { "name" : "ReStockplus" : 1.0.3 }
     ]
 }
