@@ -19,7 +19,7 @@
         }
     ],
     "resources": {
-        "homepage":   "https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*",
+        "homepage":   "https://forum.kerbalspaceprogram.com/index.php?/topic/192216-*",
         "repository": "https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus"
     },
     "depends" : [

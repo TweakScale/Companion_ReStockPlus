@@ -11,7 +11,7 @@ Distributed and Maintained by [Lisias](https://forum.kerbalspaceprogram.com/inde
 * [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus)
 	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/issues)
 * Documentation
-	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-141-tweakscale-under-new-management/&) (for while)
+	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
 	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/blob/master/README.md)
 	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
