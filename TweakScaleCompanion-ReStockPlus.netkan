@@ -1,21 +1,22 @@
   
 {
-    "spec_version"     : "v1.0",
-    "$kref"            : "#/ckan/spacedock/???",
+    "spec_version"     : "v1.2",
+    "$kref"            : "#/ckan/spacedock/2424",
     "$vref"            : "#/ckan/ksp-avc",
-    "identifier"       : "TweakScaleCompanion_ReStockPlus",
+    "identifier"       : "TweakScaleCompanion-ReStockPlus",
     "name"             : "TweakScale Companion for the ReStockPlus AddOn",
-    "abstract"         : ""
-    "license"          : "GPL-2.0 & SKL-1.0",
-    "release_status"   : "development",
+    "abstract"         : "Adds TweakScale /L patches for ReStockPlus.",
+    "license"          : [ "GPL-2.0", "restricted" ],
+    "release_status"   : "stable",
     "x_netkan_force_v" : true,
     "author": [
-        "OnlyLightMatters"
+        "OnlyLightMatters",
+        "LisiasT"
     ],
     "install" : [
         {
             "file" : "GameData/TweakScaleCompanion/ReStockPlus",
-            "install_to" : "GameData/TweakScaleCompanion/ReStockPlus"
+            "install_to" : "GameData/TweakScaleCompanion"
         }
     ],
     "resources": {
@@ -24,7 +25,7 @@
     },
     "depends" : [
         { "name" : "ModuleManager", "min_version" : "4.0.3" },
-        { "name" : "TweakScaleCore", "min_version" : "2.4.4" },
-        { "name" : "ReStockplus" : 1.0.3 }
+        { "name" : "TweakScale", "min_version" : "2.4.4" },
+        { "name" : "RestockPlus", "min_version" : "1.0.3" }
     ]
 }
