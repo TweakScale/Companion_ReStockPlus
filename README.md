@@ -8,18 +8,18 @@ Distributed and Maintained by [Lisias](https://forum.kerbalspaceprogram.com/inde
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus)
-	+ [Issue Tracker](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/issues)
+* [Source](https://github.com/TweakScale/Companion_ReStockPlus)
+	+ [Issue Tracker](https://github.com/TweakScale/Companion_ReStockPlus/issues)
 * Documentation
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/192216-tweakscale-companion-program/)
-	+ [Project's README](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/blob/master/README.md)
-	+ [Install Instructions](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/blob/master/INSTALL.md)
+	+ [Project's README](https://github.com/TweakScale/Companion_ReStockPlus/blob/master/README.md)
+	+ [Install Instructions](https://github.com/TweakScale/Companion_ReStockPlus/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 	+ [Known Issues](./KNOWN_ISSUES.md)
 * Official Distribution Sites:
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/releases)
-		- [Binaries](https://github.com/net-lisias-ksp/TweakScaleCompanion_ReStockPlus/Archive)
+	+ [Source and Binaries](https://github.com/TweakScale/Companion_ReStockPlus) on GitHub.
+	+ [Latest Release](https://github.com/TweakScale/Companion_ReStockPlus/releases)
+		- [Binaries](https://github.com/TweakScale/Companion_ReStockPlus/Archive)
 
 
 ## Description
@@ -71,7 +71,7 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/)
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale)
+	+ [GitHub](https://github.com/TweakScale/TweakScale)
 * [OnlyLightMatters](https://github.com/OnlyLightMatters) Patches' Author and Current Owner.
 	+ [GitHub](https://github.com/OnlyLightMatters/TweakScaleCompanion_ReStockPlus)
 	+ [Gallery](http://www.onlylightmatters.com).
@@ -88,4 +88,4 @@ See [NOTICE](./NOTICE) for further copyright and trademarks notices.
 	+ [CurseForge](https://kerbal.curseforge.com/projects/tweakscale)
 	+ [SpaceDock](https://spacedock.info/mod/127/TweakScale)
 	+ [Homepage](http://ksp.lisias.net/add-ons/TweakScale) on L Aerospace
-	+ [GitHub](https://github.com/net-lisias-ksp/TweakScale).
+	+ [GitHub](https://github.com/TweakScale/TweakScale).
